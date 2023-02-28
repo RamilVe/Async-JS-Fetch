@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    height: 300px;
+    object-fit: contain;
+}
+
+h5{
+    height: 25px;
+    overflow: hidden;
+}
+
+#green{
+    border:2px solid green;
+}
+#red{
+    border: 2px solid red;
+}
+
+span{
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#Categories{
+    background-color: black;
+    padding: 20px 0;
+    margin-bottom: 10px;
+}
